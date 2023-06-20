@@ -1,6 +1,0 @@
-https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
-
-
-Vegetable Image Dataset 
-
-M Israk Ahmed
