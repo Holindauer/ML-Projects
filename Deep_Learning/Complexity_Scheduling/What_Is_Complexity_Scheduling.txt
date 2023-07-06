@@ -1,0 +1,18 @@
+7/6/23
+
+This directory consists of experiments with Complexity Scheduling. What I mean by Complexity Scheduling is any type of training
+process that involves scheduling an increase in complexity of either the data or model architecture during training. 
+
+This origin of this idea is predicated on the assumption that all human learning is facilitated by exposure to ideas which are to be learned. 
+And that after a certain threshold of exposure has been attained, understanding is unavoidable. The idea stems from an 
+observation about when children first learn about swear words and other innapropriate topics for kids. 
+Parents protect their kids from hearing about inappropriate concepts when they're young, but they can't entirely protect them 
+from this. There is some amount of exposure, albeit small. However, little exposures add up over time. And by the point that 
+exposure leads to an understanding, the kid is now an adult and it's no longer inappropriate for them.
+
+The key point being that there are phases of learning that humans go through at different stages of development. At each
+of those different stages, a parental guidance tailors dataset for the child to learn from with an emphasis on what is 
+currently optimal for them to learn. Learning, then, happens in distinct steps where mastery in a small domain is achieved and then 
+difficulty of the learning task is increased in an iterative process.
+
+I aim to apply this same concept to the training of Neural Networks within this directory. 
