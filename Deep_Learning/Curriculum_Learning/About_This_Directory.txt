@@ -1,0 +1,10 @@
+Curriculum Learning is a Deep Learning Training technique where easy task are introduced into the model,
+mastery is achieved, then the difficulty of the task is increased. 
+
+This directory contains experimentation and implementation with curriculum learning. 
+
+Note on the language used within the first 4 notebooks. When I original began this curriculim learning project,
+I began with the promising notion of increasing the difficulty of the task as well as increasing the complexity 
+of the model as training progressed. My initial research did not turn up that this technique bears the name 
+curriculum learning. As a result, The first four notebook use the term complexity scheduling to mean the same
+thing.
