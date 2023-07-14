@@ -1,0 +1,16 @@
+
+This Directory is not the Focus of this Repository, that focus would be found within
+the Deep_Learning Directory. As such the contents here is not as regularly maintained 
+or added to compared to Deep_Learning. 
+
+
+
+Within this directory are many of my Initial Explorations with Machine Learning
+algorithms and models. These would include Gradient Descent, Logistic Regression, 
+Linear Regression, SVM, GMM, KNN, PCA, KMeans, etc. ie not deep learning. As well
+as learning various python libraries like Sci-Kit Learn, Pandas, Numpy.
+
+This is where I built up my initial foundation and intuition for my current projects. 
+
+
+

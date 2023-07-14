@@ -1,0 +1,6 @@
+This directory contains many of my initial experimentations with Deep Learning. As such
+some of the notebooks, The Bird Image Classification and Vegetable Image Classification
+are a bit more of premature efforts than the likes of the Semantic Segmentation project and
+later additions.
+
+Computer Vision remains an ongoing fascination of mine.
