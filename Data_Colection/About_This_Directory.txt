@@ -1,0 +1,3 @@
+Lately I have been running into the issue of being data limited.
+This directory is about teaching myself how to scrape data from 
+the web to solve this issue in my machine learning projects.
