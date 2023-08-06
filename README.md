@@ -1,10 +1,12 @@
 # ML-Projects
-Self Learning Machine Learning
 
-Deep_Learning --- is the focus of this directory, containing my current projects within 
-deep learning. It is regularly updated. My initial Explorations of deep learning 
-used the TensorFlow framework. I have since switched to PyTorch.
+This repository contains my intial explorations in machine learning. It
+contains two main directories. ML_Fundamaentals is where I familiarized 
+myself with how machines learn using gradient descent with linear models.
+After gaining these intuitions I began learning about Deep Learning in 
+the Deep_Learning directory. Intially I learned tensorflow but later made
+the switch to PyTorch. As such most projects are in tensorflow.
 
-ML_Fundamentals --- contains many of my foundational projects. It is not regularly updated
-
-Data_Collection --- contains projects using web scraping to collect my own datasets.
+I am no longer adding to this repository. I have since placed a bottleneck
+on my machine learning projects that they must serve some practical utility. 
+The concepts I am currently exploring are Transformers and NLP.
